@@ -1,7 +1,7 @@
 {
   "name": "looplab",
   "version": "1.0.0",
-  "description": "Social UI Theme",
+  "description": "UI Theme",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
