@@ -1,7 +1,7 @@
 {
-  "name": "bs4starter",
+  "name": "looplab",
   "version": "1.0.0",
-  "description": "bs4 workflow",
+  "description": "Social UI Theme",
   "main": "index.js",
   "scripts": {
     "start": "gulp"

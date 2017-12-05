@@ -1,0 +1,19 @@
+$bg-color: #333;
+$font-color: #fff;
+$primary-color: #008ed6;
+
+body {
+  background: $bg-color;
+  color: $font-color;
+}
+
+.navbar{
+  border-bottom: $primary-color 3px solid;
+  oppacity: 0.8;
+}
+
+@media(max-width: 576px) {
+  nav .container {
+    width: 100%;
+  }
+}

@@ -1,0 +1,11 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  oppacity: 0.8; }
+
+@media (max-width: 576px) {
+  nav .container {
+    width: 100%; } }
